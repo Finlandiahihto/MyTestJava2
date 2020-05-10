@@ -18,6 +18,8 @@ public class MyTestJava {
                 case 18:
                     System.out.println("я закончил школу");
                     break;
+                case 21:
+                    System.out.println("закончил институт");
             }
         }
     }

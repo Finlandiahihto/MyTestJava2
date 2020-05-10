@@ -20,6 +20,7 @@ public class MyTestJava {
                     break;
                 case 21:
                     System.out.println("закончил институт");
+                    System.out.println();
             }
         }
     }

@@ -21,6 +21,7 @@ public class MyTestJava {
                 case 21:
                     System.out.println("закончил институт");
                     System.out.println();
+                   String s = "dfja;fjad";
             }
         }
     }
